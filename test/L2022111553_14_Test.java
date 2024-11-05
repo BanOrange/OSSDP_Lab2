@@ -15,7 +15,7 @@ import static org.junit.Assert.assertEquals;
  *    错误字符串：长度不足4；含有非法字符；含有负数；含有大于255的数字
  */
 
-public class qjk_2022111553_14_Test {
+public class L2022111553_14_Test {
    /**
     * 测试四个零的输入字符串能否产生结果，即唯一结果0.0.0.0
     */
